@@ -1,5 +1,8 @@
 # fairness-paper
 Fairness Paper list 
+# workshop
+- [ICLR 2022 Workshop on Socially Responsible Machine Learning (SRML)](https://iclrsrml.github.io/)
+
 # Conference Papers
 
 ## 2022
@@ -18,5 +21,3 @@ Fairness Paper list
 - [MaGNET: Uniform Sampling from Deep Generative Network Manifolds Without Retraining](https://openreview.net/pdf?id=r5qumLiYwf9)
 - [Visual Representation Learning over Latent Domains](https://openreview.net/pdf?id=kG0AtPi6JI1)
 - [Diverse Client Selection for Federated Learning via Submodular Maximization](https://openreview.net/pdf?id=nwKXyFvaUm)
-- [Resolving Training Biases via Influence-based Data Relabeling](https://openreview.net/forum?id=EskfH0bwNVn)
-
