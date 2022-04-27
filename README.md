@@ -21,3 +21,8 @@ Fairness Paper list
 - [MaGNET: Uniform Sampling from Deep Generative Network Manifolds Without Retraining](https://openreview.net/pdf?id=r5qumLiYwf9)
 - [Visual Representation Learning over Latent Domains](https://openreview.net/pdf?id=kG0AtPi6JI1)
 - [Diverse Client Selection for Federated Learning via Submodular Maximization](https://openreview.net/pdf?id=nwKXyFvaUm)
+
+
+A link contain papers before 2021:
+
+- [A comprehensive collection of the latest peer-reviewed papers, tutorials, resources, etc. related to Fairness in Artificial Intelligence.](https://www.yongkaiwu.com/FairAI/conference.html#aaai-2020)
