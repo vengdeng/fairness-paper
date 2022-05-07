@@ -12,7 +12,7 @@ Fairness Paper list
 - [The Rich Get Richer: Disparate Impact of Semi-Supervised Learning](https://openreview.net/pdf?id=DXPftn5kjQK)
 - [Fairness in Representation for Multilingual NLP: Insights from Controlled Experiments on Conditional Language Modeling](https://openreview.net/pdf?id=-llS6TiOew)
 - [Fairness Guarantees under Demographic Shift](https://openreview.net/pdf?id=wbPObLm6ueA) （done）
-- [Is Fairness Only Metric Deep? Evaluating and Addressing Subgroup Gaps in Deep Metric Learning](https://openreview.net/pdf?id=js62_xuLDDv)
+- [Is Fairness Only Metric Deep? Evaluating and Addressing Subgroup Gaps in Deep Metric Learning](https://openreview.net/pdf?id=js62_xuLDDv)（done）
 - [FairCal: Fairness Calibration for Face Verification](https://openreview.net/pdf?id=nRj0NcmSuxb)
 - [Generalized Demographic Parity for Group Fairness](https://openreview.net/pdf?id=YigKlMJwjye)
 - [Fair Normalizing Flows](https://openreview.net/forum?id=BrFIKuxrZE) (done)
